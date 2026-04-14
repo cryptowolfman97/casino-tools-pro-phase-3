@@ -1,7 +1,7 @@
 [app]
 
 title = Casino Tools Pro v7 by SHV
-package.name = casinotoolspro-by-shv-v7
+package.name = casinotoolsprobyshvv7
 package.domain = org.sachith
 
 source.dir = .
