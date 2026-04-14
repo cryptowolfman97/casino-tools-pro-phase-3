@@ -1,13 +1,13 @@
 [app]
 
-title = Casino Tools Pro v6 by SH
-package.name = casinotoolsprocusappfinal1
+title = Casino Tools Pro v7 by SHV
+package.name = casinotoolspro-by-shv-v7
 package.domain = org.sachith
 
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas,txt,json,pem
 
-version = 2.4
+version = 7
 
 requirements = python3,kivy,requests,certifi,rsa,pyasn1
 
